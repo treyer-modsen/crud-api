@@ -1,0 +1,24 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "simple nodejs CRUD API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treyer-modsen/crud-api.git"
+  },
+  "keywords": [
+    "simple",
+    "CRUD",
+    "API"
+  ],
+  "author": "Andrei Kazhanenka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treyer-modsen/crud-api/issues"
+  },
+  "homepage": "https://github.com/treyer-modsen/crud-api#readme"
+}
